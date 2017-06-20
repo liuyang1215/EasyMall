@@ -1,0 +1,12 @@
+/back/_left.jsp
+/back/_top.jsp
+/back/_right.jsp
+/back/manage.jsp
+/back/manageAddProd.jsp
+/back/saleList.jsp
+/BackProductAddServlet
+/AjaxChangePnumServlet
+/DeleteProductServlet
+/BackProductListServlet
+/SalesListServlet
+/DownloadSalesServlet
